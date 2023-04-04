@@ -1,2 +1,2 @@
-# blooket
+ blooket
 Blooket coins infinite 
